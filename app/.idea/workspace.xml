@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b2e6e13-8490-4bbf-b670-f091a0f2f4e4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../BootcampStageOne/app/src/main/res/drawable-nodpi/calculator.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BootcampStageOne/app/src/main/res/drawable-nodpi/getting_started.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BootcampStageOne/app/src/main/res/drawable-nodpi/hungry_developer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BootcampStageOne/app/src/main/res/drawable-nodpi/quote.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BootcampStageOne/app/src/main/res/drawable-nodpi/tape.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GettingStartedApp/app/src/main/java/com/example/gettingstartedapp/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GettingStartedApp/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2gz2NX5arbHVjX5hD6V86MWJKTu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "android.gradle.sync.needed": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/lmf19/OneDrive/Desktop/Coding/Android Projects/GetItDone/app"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b2e6e13-8490-4bbf-b670-f091a0f2f4e4" name="Changes" comment="" />
+      <created>1716686045795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716686045795</updated>
+    </task>
+    <servers />
+  </component>
+</project>
